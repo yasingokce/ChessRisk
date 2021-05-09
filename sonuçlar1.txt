@@ -1,0 +1,4 @@
+Tahta Dosya Adý		Sonuçlar
+board1.txt              Siyah=121,  Beyaz=118
+board2.txt              Siyah=132.5,  Beyaz=126.5
+board3.txt              Siyah=56,  Beyaz=112.5
